@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from a gentleman in Exeter to his friend in London</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25833</idno><idno type="EEBO-CITATION">99828237</idno>
+  <idno type="VID">207571</idno>
+  <idno type="EEBO-PROQUEST">2248497824</idno>
+  
+            <idno type="STC">Wing L1382E</idno>
+            <idno type="PROQUEST">99828237</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828237e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25833)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207571)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1912:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from a gentleman in Exeter to his friend in London</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>printed in the year 1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication from Wing; publication date from colophon.</note>
+                  <note>Describes the arrival of William, Prince of Orange in Torbay on November 5, 1688.</note>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">William --  III, --  King of England, 1650-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:207571:1"/>
+            <pb n="1" facs="tcp:207571:1"/>
+            <head>A LETTER From a Gentleman in EXETER To his Friend in LONDON.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Have received yours, and had long e're this given you an Account of the state of Affairs with us, had there not been apparent hazard both to you and my self by doing it, both Par<g ref="char:EOLhyphen"/>ties examining Letters; and if any thing I had written had been mis-interpreted, it might have been very prejudicial to one or other of us. I shall now give you the Truest and most Exact Information that can possible be given of so great an undertaking; which take as follows.</p>
+            <p>The Prince of <hi>Orange</hi> arrived at <hi>Torbay</hi> on <hi>Monday Novemb.</hi> 5. about twelve of the Clock; by three in the Afternoon we had the News thereof brought to this City, by several Expresses to the Earl of <hi>B.</hi> they landed all their Horse first, and after that their Foot, the Army being all on shore by three of the Clock in the After<g ref="char:EOLhyphen"/>noon, all the Baggage, Provision and Am<g ref="char:EOLhyphen"/>munition being sent about from <hi>Topsham,</hi> whence they were brought by Water to this City: abundance there were that landed with the Prince at <hi>Torbay</hi> for pre<g ref="char:EOLhyphen"/>sent Service, in cafe there were need. The <hi>Wednesday,</hi> being the seventh Instant, one. Captain <hi>Hicks</hi> came to Town, Son to Mr. <hi>Hicks</hi> late of <hi>Portsmouth;</hi> and as soon as he came, the people in very great num<g ref="char:EOLhyphen"/>bers flock<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to him to List themselves in the Service of the Prince of <hi>Orange;</hi> which the Mayor hearing of, sent for him, and demanded of him whether he had a Com<g ref="char:EOLhyphen"/>mission for what he did, but he would produce none, nor give any account of the said Design, whereupon he was com<g ref="char:EOLhyphen"/>mitted to Prison: The concourse of the people was so great about the <hi>Guildhast,</hi> that they would not suffer him to be car<g ref="char:EOLhyphen"/>ried away; so he remained there till the next day, in the custody of two Constables, and was very nobly provided for by the Mayor.</p>
+            <p>On <hi>Thursday</hi> the Lord <hi>Mordant,</hi> with three or four Troops of Horse came to Town, and Dr. <hi>Burnet</hi> with him; when they came to the Gate of this City, it was shut against them, upon which the Lord <hi>Mordant</hi> commanded the Porter to open the Gate on pain of death, which was presently set open, and being open, required him on the same penalty not to shut it again. As soon as they were en<g ref="char:EOLhyphen"/>tred, the Lord <hi>Mordant</hi> went immediate<g ref="char:EOLhyphen"/>ly to the Hall, and set Captain <hi>Hicks</hi> at Liberty, and enquired of his usage, who gave the Lord <hi>Mordant</hi> a very large ac<g ref="char:EOLhyphen"/>count of the Mayors respect and civility to him; upon which there was a Guiney given to them that waited on him. That Afternoon the Lord <hi>Mordant</hi> and Dr. <hi>Burnet</hi> waited on the Mayor to know if he would meet the Prince of <hi>Orange</hi> at the Gate, and govern the City under him, which he excused, and told them he was under the obligation of an Oath to His Majesty, and therefore desired he would lay no command on him that should be prejudicial to his Conscience; and after some debate of the matter 'twas deter<g ref="char:EOLhyphen"/>mined.</p>
+            <p>
+               <hi>Thursday</hi> they continued coming into Town; on <hi>Friday</hi> the Prince came with his Guard; they were marching into, and some thro' the City to places adjacent about three hours without ceasing, and more or less they came in still until night. Men better Horst I never saw in all my life <hi>Saturday,</hi> most part of the day, <hi>Sabbath-day, Monday</hi> and <hi>Tuesday</hi> the main Body of the Army came, and most of them, on<g ref="char:EOLhyphen"/>ly some few Regiments of Foot marched to <hi>Tiverton, Collumpton, Honiton,</hi> &amp;c. and
+<pb n="2" facs="tcp:207571:2"/>to the Neighbouring Parishes, and the Foot to <hi>Clift Heath</hi> where they Encampt and pitched their Tents. The Bishop fled, and is come for <hi>London,</hi> and we Hear is made Archbishop of <hi>York.</hi> The Dean likewise withdrew, whose House the Prince took for his Lodgings. The Lord's Day Dr. <hi>Burnet</hi> Preacht at the Cathedral on the last <hi>v.</hi> of <hi>Psalm</hi> 107. <hi>Whoso is wise, and will observe these things; even they shall understand the loving kindness of the Lord.</hi> Wherein he observes the wonderful Pro<g ref="char:EOLhyphen"/>vidence of God towards them in the whole Conduct of Affairs in this under<g ref="char:EOLhyphen"/>taking, and how they intended to have Landed the 4th of <hi>November</hi> if it had been possible, it being the Prince's Birth-day, and the Day of his Marriage to the Prin<g ref="char:EOLhyphen"/>cess, but they could not possibly make to the Land, and so could not get Ashore till the 5th, that our Deliverance might be begun on the same Day it formerly was designed for Ruin and Destruction. <hi>Monday</hi> all the Cannons that were in the Town were summoned to appear in the Quire. And likewise the Singing men; where after they had Sung <hi>Te Deum,</hi> Dr. <hi>Burnet</hi> read the Prince's Declaration, and after the Declaration, a short Prayer for the success of the Prince, and so depart<g ref="char:EOLhyphen"/>ed, there was not one of the Cannons ap<g ref="char:EOLhyphen"/>peared, and when the Declaration was reading, the Singing men went away, they being commanded in their Service to for<g ref="char:EOLhyphen"/>bear praying for the Prince of <hi>Wales.</hi>
+            </p>
+            <p>
+               <hi>Monday</hi> Captain <hi>Burrington,</hi> who lives by <hi>Creditton</hi> came to the Prince, and of<g ref="char:EOLhyphen"/>fered him his Service, who was very kind<g ref="char:EOLhyphen"/>ly received by him; after that every day the Gentry from all parts of <hi>Devon</hi> and <hi>Somerset,</hi> &amp;c. flocked to him in great num<g ref="char:EOLhyphen"/>bers, it would take up too much time to name them, few absenting themselves, and those that did there is great notice ta<g ref="char:EOLhyphen"/>ken of them. They have entred into an Association to stand and fall with the Prince. Several Lords came to him while here, as the Lord <hi>Colchester, Shrewsbury, — Cornbury.</hi> There were seven <hi>Scotch</hi> Lords, one <hi>Irish,</hi> and eighteen <hi>En<g ref="char:EOLhyphen"/>glish</hi> Lords that came over with him. It is incredible to tell you what they have brought with them, unless you saw it, there being 200 of their Ships come into the River of <hi>Topsham. Plymouth</hi> Fort is surrendred to the Prince by the Earl of <hi>Bath,</hi> and the Popish Officers that were there, with Father <hi>Turner</hi> are seized and secured, and the Popish Souldiers dis<g ref="char:EOLhyphen"/>charg'd, and coming hither and owning themselves such, are committed by Mr.</p>
+            <p>
+               <hi>Seymour,</hi> who is made our Governor, and one Major <hi>Gibbons</hi> Deputy Governor. Here are several Thousand Souldiers that have Listed themselves, and many Thou<g ref="char:EOLhyphen"/>sands more would have done the same, but the <hi>Marischal de Schomberg</hi> told the Prince there was no need of them; so they were dismist again. They have a vast Treasure with them, I am certainly inform'd of Fifty Waggon load of Money. They have Landed about 120 Field-pieces, several of which remain here, and the others are gone with the Prince. They have also brought three Ships laden with Fire-works, and as many Arms as will serve 60000 Men, besides Aparrel. They have one Company that are all six Foot and a half high. The last News we had was that the Prince was at the E. of <hi>Bri<g ref="char:EOLhyphen"/>stol</hi>'s near <hi>Sherbourn,</hi> where we are inform'd that Prince <hi>George,</hi> the Duke of <hi>Grafton,</hi> the Lord <hi>Churchill,</hi> and Collonel <hi>Trelawny</hi> met him, and that the Prince saluted them in the words of <hi>David</hi> to the men of <hi>Judah</hi> and <hi>Benjamin</hi> in the 1 <hi>Chron.</hi> 12.17. <hi>And <hi>David</hi> went out to meet them, and an<g ref="char:EOLhyphen"/>swered and said unto them: If ye be come peaceably unto me to help me, mine heart shall be knit unto you: but if ye be come to betray me to mine enemies, seeing there is no wrong in mine hands: the God of our Fathers look thereon, and rebuke it.</hi> And they replyed in the words of <hi>Amasai</hi> in the 18th verse. <hi>Then the Spirit came upon <hi>Amasai,</hi> who was chief of the Captains, and he said, Thine are we,<hi>David,</hi> and on thy side, thou Son of <hi>Jesse:</hi> Peace, peace be unto thee, and peace be to thy helpers, for thy God helpeth thee. Then <hi>Da<g ref="char:EOLhyphen"/>vid</hi> received them, and made them Captains of the Band.</hi> The Prince at his going from hence gave the Mayor this Chara<g ref="char:EOLhyphen"/>cter, That he was worthy to be trusted, for being faithful to his Trust. There are very many other things of lesser mo<g ref="char:EOLhyphen"/>ment, which I have not time to treat, neither shall I trouble you with them.</p>
+            <div type="postscript">
+               <head>POSTSCRIPT.</head>
+               <p>WE have had two Alarms this week of the <hi>French</hi> being landed, one at <hi>Salcomb</hi> in the South, and the other at <hi>Portlock</hi> in the North Seas, but both prove stories; the Country appeared with Sithes, Hay-knives, Corn-pikes, Muskets, and other Instruments that could be got wherewith to encounter them: I believe there were at least an hundred thousand in all places in the Country in Arms. At <hi>Dunsford</hi> the people ran away to Arms, and left the Corps when they were going to Burial.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed in the Year 1688</p>
+         </div>
+         <div type="license">
+            <p>With Allowance.</p>
+            <pb facs="tcp:207571:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
